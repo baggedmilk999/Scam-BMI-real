@@ -1,0 +1,16 @@
+body{
+    background-color: lawngreen;
+    background-image: url("Spamton.gif");    background-repeat: repeat;
+    color:crimson
+}
+.sus{
+   float:right;
+}
+.among{
+    float: left;
+}
+.us{
+    float: center;
+    width:1000px;
+    height: 500px;
+}
